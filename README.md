@@ -1,1 +1,1 @@
-# EuipoCorazon
+# EquipoCorazon
