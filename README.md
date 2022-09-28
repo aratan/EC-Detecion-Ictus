@@ -1,2 +1,3 @@
-# EquipoCorazon
-Victor Arbiol
+# PREDICCIÓN DE RIESGO DE ACCIDENTE CARDIOVASCULAR O ICTUS 
+### Trabajo realizado sobre un dataset de índole sanitario con el objetivo de predecir posibles ictus o accidentes cardiovasculares teniendo en cuenta una serie de factores. El riesgo de ictus viene marcado por una serie de factores, unos más tangibles que otros, y que vamos a detallar a continuación y que utilizaremos para intentar pronosticar qué pacientes tienen más posibilidades de sufrir un accidente cerebrovascular o ictus. La llegada del paciente a un centro hospitalario en las primeras 6 horas de comienzo del ictus resulta fundamental para reducir la complicaciones en un 25-30%. De ahí que la prevención sea clave en esta enfermedad.
+__Componentes:__  _Víctor Arbiol (UX_UI Back-end ) y David García (UX/UI Front_end),  Javier Inglés (Data analytics),  Nayare Montes y Félix Zambrano (CEOs)._
